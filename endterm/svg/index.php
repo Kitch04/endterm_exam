@@ -29,7 +29,7 @@
                 <ul>
                     <li><h1>LEARNING TASK 5.1</h1></li>
                     <li><a href="pua-shape-main/index.php">Heroku</a></li>
-                    <li><a href="">Github</a></li>
+                    <li><a href="https://github.com/Kitch04/endterm_exam/tree/main/endterm/svg/pua-shape-main">Github</a></li>
                 </ul>
                 <ul>
                     <li><h1>EXAM</h1></li>
