@@ -41,8 +41,8 @@
         </ul>
         <ul>
             <li><h1>LEARNING TASK 3.2</h1></li>
-            <li><a href="https://app-kitch.herokuapp.com/">CSS transition</a></li>
-            <li><a href="https://github.com/Kitch04/pua-animation">CSS animation</a></li>
+            <li><a href="https://codepen.io/KitchPua/pen/oNxQvwb">CSS transition</a></li>
+            <li><a href="https://codepen.io/KitchPua/pen/abNQoLb">CSS animation</a></li>
         </ul>
         <ul>
             <li><h1>LEARNING TASK 3.3</h1></li>
