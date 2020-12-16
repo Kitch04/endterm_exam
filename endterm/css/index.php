@@ -37,7 +37,7 @@
         <ul>
             <li><h1>LEARNING TASK 2.3</h1></li>
             <li><a href="pua-animation-master/index.php">Heroku</a></li>
-            <li><a href="https://github.com/Kitch04/pua-animation">Github</a></li>
+            <li><a href="https://github.com/Kitch04/endterm_exam/tree/main/endterm/css/pua-animation-master">Github</a></li>
         </ul>
         <ul>
             <li><h1>LEARNING TASK 3.2</h1></li>
