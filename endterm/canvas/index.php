@@ -33,7 +33,7 @@
                 </ul>
                 <ul>
                     <li><h1>EXAM</h1></li>
-                    <li><a href="">Heroku</a></li>
+                    <li><a href="https://endterm-pua.herokuapp.com/canvas/index.php">Heroku</a></li>
                     <li><a href="">Github</a></li>
                 </ul>
             </div>
