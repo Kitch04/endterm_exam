@@ -57,7 +57,7 @@
         <ul>
             <li><h1>EXAM</h1></li>
             <li><a href="Kitch-prelim-main/index.php">Heroku</a></li>
-            <li><a href="https://github.com/Kitch04/Kitch-prelim">Github</a></li>
+            <li><a href="https://github.com/Kitch04/endterm_exam/tree/main/endterm/css/Kitch-prelim-main">Github</a></li>
         </ul>
     </div>
 </body>
