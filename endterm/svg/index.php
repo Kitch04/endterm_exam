@@ -34,7 +34,7 @@
                 <ul>
                     <li><h1>EXAM</h1></li>
                     <li><a href="floom-pua-main/index.php">Heroku</a></li>
-                    <li><a href="">Github</a></li>
+                    <li><a href="https://github.com/Kitch04/endterm_exam/tree/main/endterm/svg/floom-pua-main">Github</a></li>
                 </ul>
             </div>
 </body>
